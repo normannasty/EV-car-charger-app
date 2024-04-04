@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EV car charger control", "EV car charger control\EV car charger control.csproj", "{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EV car charger installer", "EV car charger installer\EV car charger installer.vdproj", "{7803870E-2701-4D66-B7B3-08972EF8E1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7803870E-2701-4D66-B7B3-08972EF8E1C5}.Debug|Any CPU.ActiveCfg = Debug
+		{7803870E-2701-4D66-B7B3-08972EF8E1C5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F33D74-F0E9-4426-895C-E7F21794386D}
+	EndGlobalSection
+EndGlobal
