@@ -1,0 +1,37 @@
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.csproj.AssemblyReference.cache
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\YourNamespace.MainForm.resources
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV_car_charger_control.Properties.Resources.resources
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.csproj.GenerateResource.cache
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.csproj.CoreCompileInputs.cache
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\EV car charger control.exe.config
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\EV car charger control.exe
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\EV car charger control.pdb
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.exe
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.pdb
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Buffers.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Memory.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Text.Json.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.ValueTuple.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Buffers.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Memory.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Text.Json.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\System.ValueTuple.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car c.2B698C3B.Up2Date
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\Newtonsoft.Json.dll
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\Newtonsoft.Json.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\EV car charger control.exe.manifest
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\EV car charger control.application
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.TrustInfo.xml
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.exe.manifest
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\obj\Debug\EV car charger control.application
+C:\Users\norbifx\source\repos\EV car charger control\EV car charger control\bin\Debug\App.config

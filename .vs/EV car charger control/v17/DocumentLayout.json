@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|C:\\Users\\norbifx\\source\\repos\\EV car charger control\\ev car charger control\\ev car charger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|solutionrelative:ev car charger control\\ev car charger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|C:\\Users\\norbifx\\source\\repos\\EV car charger control\\ev car charger control\\ev car charger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|solutionrelative:ev car charger control\\ev car charger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|C:\\Users\\norbifx\\source\\repos\\EV car charger control\\ev car charger control\\ev car charger.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|solutionrelative:ev car charger control\\ev car charger.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|c:\\users\\norbifx\\source\\repos\\ev car charger control\\ev car charger control\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F821D5DD-BCCB-43E2-B51A-F9EED8BE786D}|EV car charger control\\EV car charger control.csproj|solutionrelative:ev car charger control\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EV car charger.cs",
+              "DocumentMoniker": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\EV car charger.cs",
+              "RelativeDocumentMoniker": "EV car charger control\\EV car charger.cs",
+              "ToolTip": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\EV car charger.cs",
+              "RelativeToolTip": "EV car charger control\\EV car charger.cs",
+              "ViewState": "AQIAAHcAAAAAwMzMzMzwv1cBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:40:51.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\App.config",
+              "RelativeDocumentMoniker": "EV car charger control\\App.config",
+              "ToolTip": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\App.config",
+              "RelativeToolTip": "EV car charger control\\App.config",
+              "ViewState": "AQIAAAAAAAAAlpmZmZkOwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-25T12:13:16.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EV car charger.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\EV car charger.Designer.cs",
+              "RelativeDocumentMoniker": "EV car charger control\\EV car charger.Designer.cs",
+              "ToolTip": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\EV car charger.Designer.cs",
+              "RelativeToolTip": "EV car charger control\\EV car charger.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:39:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EV car charger.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\EV car charger.cs",
+              "RelativeDocumentMoniker": "EV car charger control\\EV car charger.cs",
+              "ToolTip": "C:\\Users\\norbifx\\source\\repos\\EV car charger control\\EV car charger control\\EV car charger.cs [Design]",
+              "RelativeToolTip": "EV car charger control\\EV car charger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:39:03.757Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
